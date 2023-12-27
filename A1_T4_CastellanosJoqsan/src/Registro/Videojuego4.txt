@@ -1,0 +1,6 @@
+No. ID: 4
+Nombre: Super Mario Bros
+Descripción: Arcade
+Existencia: 44
+Precio: 120.0
+Categoría: Familiar

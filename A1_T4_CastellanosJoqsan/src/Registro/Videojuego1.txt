@@ -1,0 +1,6 @@
+No. ID: 1
+Nombre: Sims
+Descripción: Simulador social
+Existencia: 34
+Precio: 300.0
+Categoría: Simulación y estrategia

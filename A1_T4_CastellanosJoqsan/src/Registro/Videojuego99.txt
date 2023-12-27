@@ -1,0 +1,6 @@
+No. ID: 99
+Nombre: dkkd
+Descripción: kdkkd
+Existencia: 89
+Precio: 90.0
+Categoría: skkdkd

@@ -1,0 +1,6 @@
+No. ID: 45
+Nombre: RCT 3
+Descripción: Construcción de parques
+Existencia: 56
+Precio: 456.5
+Categoría: Simulación

@@ -1,0 +1,6 @@
+No. ID: 15
+Nombre: SimCity Societies
+Descripción: Simulador de construcción
+Existencia: 34
+Precio: 300.0
+Categoría: Simulación

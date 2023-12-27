@@ -1,0 +1,5 @@
+a5_t1_castellanosjoqsan.RegistroVacio
+a5_t1_castellanosjoqsan.CampoVacio
+a5_t1_castellanosjoqsan.Lamina
+a5_t1_castellanosjoqsan.ValorNegativo
+a5_t1_castellanosjoqsan.ElementoNoEncontrado

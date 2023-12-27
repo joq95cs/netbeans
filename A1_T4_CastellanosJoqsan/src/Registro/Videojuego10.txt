@@ -1,0 +1,6 @@
+No. ID: 10
+Nombre: SimCity
+Descripción: Simulador de construcción
+Existencia: 34
+Precio: 300.0
+Categoría: Simulación

@@ -1,0 +1,6 @@
+No. ID: 102
+Nombre: Super Mario Bros 3
+Descripción: Arcade
+Existencia: 77
+Precio: 100.0
+Categoría: Familiar

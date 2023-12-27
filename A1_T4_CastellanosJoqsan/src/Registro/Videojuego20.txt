@@ -1,0 +1,6 @@
+No. ID: 20
+Nombre: RCT 3
+Descripción: Simulador de construcción
+Existencia: 34
+Precio: 300.0
+Categoría: Simulación

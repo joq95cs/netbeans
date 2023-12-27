@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><program variant="0"><decllist variant="0"><decl variant="0"><identifier>Variable</identifier><identlist variant="1"/></decl></decllist><stmtlist variant="0"><stmt variant="2"><lhs>Variable</lhs><expr variant="1"><constant>9</constant></expr></stmt></stmtlist></program>

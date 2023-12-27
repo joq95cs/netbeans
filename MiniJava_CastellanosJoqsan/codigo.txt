@@ -1,0 +1,5 @@
+int Variable;
+
+Variable = 9;
+
+int X;

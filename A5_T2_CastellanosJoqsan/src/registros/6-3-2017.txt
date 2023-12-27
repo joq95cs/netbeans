@@ -1,0 +1,7 @@
+Evento 1#12:0 A. M.#11:59 P. M.
+Evento 2#9:0 A. M.#5:30 P. M.
+Evento 3#12:0 P. M.#7:30 P. M.
+Evento 4#9:0 A. M.#10:15 A. M.
+Evento 5#12:0 A. M.#11:59 P. M.
+Evento 6#12:0 A. M.#11:59 P. M.
+Evento 7#10:0 A. M.#10:0 P. M.

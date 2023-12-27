@@ -1,0 +1,6 @@
+Nombre: Juana Marínez López
+Edad: 23
+Sexo: Mujer
+Teléfono: 4521309876
+Email: juanita@correo.com
+Dirección: Fresas con crema # 123
